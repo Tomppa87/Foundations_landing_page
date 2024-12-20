@@ -47,6 +47,11 @@
     align-items: center;
 }
 
+.header_logo img {
+    max-width: 30px;
+    border-radius: 50%;
+}
+
 .header_bottom img {width: 250px;}
 
 .content {
